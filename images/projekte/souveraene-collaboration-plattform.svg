@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-hidden="true">
+  <!-- Teaserbild-Platzhalter: Collaboration-Plattform (App-Kacheln mit Schutzschild) -->
+  <rect width="1200" height="800" fill="#1C222E"/>
+  <g stroke="#475062" stroke-width="1">
+    <path d="M0 200H1200M0 400H1200M0 600H1200M300 0V800M600 0V800M900 0V800"/>
+  </g>
+  <rect x="240" y="150" width="720" height="500" fill="#F4F5F7"/>
+  <rect x="240" y="150" width="720" height="56" fill="#E2E5EB"/>
+  <circle cx="276" cy="178" r="8" fill="#9AA3B2"/><circle cx="302" cy="178" r="8" fill="#9AA3B2"/><circle cx="328" cy="178" r="8" fill="#9AA3B2"/>
+  <g fill="#FFFFFF" stroke="#E2E5EB" stroke-width="2">
+    <rect x="290" y="250" width="190" height="160"/><rect x="505" y="250" width="190" height="160"/><rect x="720" y="250" width="190" height="160"/>
+    <rect x="290" y="440" width="190" height="160"/><rect x="505" y="440" width="190" height="160"/><rect x="720" y="440" width="190" height="160"/>
+  </g>
+  <g fill="none" stroke="#1C222E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M355 290h45l25 25v60h-70z M400 290v25h25"/>
+    <rect x="555" y="300" width="90" height="62"/><path d="M555 300l45 35 45-35"/>
+    <rect x="770" y="295" width="90" height="80"/><path d="M770 320h90M795 285v20M835 285v20"/>
+    <path d="M345 490h80v50h-50l-20 20v-20h-10z"/>
+    <circle cx="600" cy="510" r="22"/><path d="M558 565c8-22 76-22 84 0"/>
+    <path d="M770 525h90M770 500h60M770 550h75"/>
+  </g>
+  <path d="M960 560l70 28v62c0 48-30 80-70 98-40-18-70-50-70-98v-62z" fill="#1C222E" stroke="#FFFFFF" stroke-width="6"/>
+  <path d="M928 640l22 22 42-46" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

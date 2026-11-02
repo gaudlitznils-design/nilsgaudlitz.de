@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-hidden="true">
+  <!-- Teaserbild-Platzhalter: Office-Suite (zwei Portale, Übergang, Verschlüsselung) -->
+  <rect width="1200" height="800" fill="#F4F5F7"/>
+  <rect x="120" y="170" width="420" height="460" fill="#FFFFFF" stroke="#E2E5EB" stroke-width="2"/>
+  <rect x="120" y="170" width="420" height="50" fill="#E2E5EB"/>
+  <rect x="660" y="170" width="420" height="460" fill="#1C222E"/>
+  <rect x="660" y="170" width="420" height="50" fill="#475062"/>
+  <g fill="#E2E5EB"><rect x="160" y="260" width="120" height="16"/><rect x="160" y="300" width="340" height="12"/><rect x="160" y="328" width="300" height="12"/><rect x="160" y="356" width="320" height="12"/></g>
+  <g fill="#9AA3B2"><rect x="160" y="410" width="160" height="110"/><rect x="340" y="410" width="160" height="110" fill="#E2E5EB"/></g>
+  <g fill="#475062"><rect x="700" y="260" width="120" height="16" fill="#9AA3B2"/><rect x="700" y="300" width="340" height="12"/><rect x="700" y="328" width="300" height="12"/><rect x="700" y="356" width="320" height="12"/></g>
+  <g fill="#475062"><rect x="700" y="410" width="160" height="110"/><rect x="880" y="410" width="160" height="110" fill="#9AA3B2"/></g>
+  <circle cx="600" cy="400" r="62" fill="#FFFFFF" stroke="#1C222E" stroke-width="6"/>
+  <path d="M565 385h62l-18-18M635 415h-62l18 18" fill="none" stroke="#1C222E" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="560" y="560" width="80" height="66" fill="#1C222E"/>
+  <path d="M575 560v-22a25 25 0 0 1 50 0v22" fill="none" stroke="#1C222E" stroke-width="8"/>
+  <circle cx="600" cy="592" r="9" fill="#FFFFFF"/>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-hidden="true">
+  <!-- Teaserbild-Platzhalter: Rollenbasierte Arbeitsplattform (Dashboard) -->
+  <rect width="1200" height="800" fill="#1C222E"/>
+  <rect x="140" y="120" width="920" height="560" fill="#F4F5F7"/>
+  <rect x="140" y="120" width="200" height="560" fill="#FFFFFF" stroke="#E2E5EB" stroke-width="2"/>
+  <g fill="#E2E5EB"><rect x="170" y="160" width="120" height="16" fill="#1C222E"/><rect x="170" y="220" width="140" height="12"/><rect x="170" y="256" width="110" height="12"/><rect x="170" y="292" width="130" height="12"/><rect x="170" y="328" width="100" height="12"/></g>
+  <rect x="160" y="208" width="4" height="36" fill="#1C222E"/>
+  <g fill="#FFFFFF" stroke="#E2E5EB" stroke-width="2">
+    <rect x="370" y="150" width="210" height="130"/><rect x="600" y="150" width="210" height="130"/><rect x="830" y="150" width="200" height="130"/>
+    <rect x="370" y="305" width="440" height="345"/><rect x="830" y="305" width="200" height="345"/>
+  </g>
+  <g fill="none" stroke="#1C222E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M395 245l40-35 35 20 45-45 35 25"/>
+    <path d="M685 190h40M705 170v40"/><rect x="665" y="160" width="80" height="80"/>
+    <circle cx="930" cy="200" r="20"/><path d="M895 255c8-24 62-24 70 0"/>
+  </g>
+  <g fill="#1C222E"><rect x="410" y="560" width="40" height="60"/><rect x="470" y="500" width="40" height="120"/><rect x="530" y="530" width="40" height="90"/><rect x="590" y="440" width="40" height="180"/><rect x="650" y="480" width="40" height="140"/><rect x="710" y="420" width="40" height="200"/></g>
+  <g fill="#9AA3B2"><rect x="400" y="340" width="170" height="14"/><rect x="400" y="370" width="110" height="10"/></g>
+  <g fill="none" stroke="#9AA3B2" stroke-width="4">
+    <circle cx="880" cy="360" r="16"/><circle cx="880" cy="430" r="16"/><circle cx="880" cy="500" r="16"/><circle cx="880" cy="570" r="16"/>
+  </g>
+  <g fill="#E2E5EB"><rect x="910" y="354" width="90" height="12"/><rect x="910" y="424" width="80" height="12"/><rect x="910" y="494" width="95" height="12"/><rect x="910" y="564" width="70" height="12"/></g>
+</svg>
